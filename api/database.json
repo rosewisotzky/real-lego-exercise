@@ -6,6 +6,87 @@
       "shape": "rectangle",
       "creation": "table",
       "id": 1
+    },
+    {
+      "creator": "Rose",
+      "color": "Red",
+      "shape": "Circle",
+      "creation": "Life",
+      "id": 2
+    },
+    {
+      "creator": "Rose",
+      "color": "2",
+      "shape": "Triangle",
+      "creation": "Cat",
+      "id": 3
+    },
+    {
+      "creator": "rOse",
+      "color": "rose",
+      "shape": "rose",
+      "id": 4
+    },
+    {
+      "creator": "sdfs",
+      "color": null,
+      "shape": "sdfsdf",
+      "creation": "sdfsdf",
+      "id": 5
+    },
+    {
+      "creator": "sdfdfs",
+      "color": {
+        "0": {},
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {}
+      },
+      "shape": "eee",
+      "creation": "e",
+      "id": 6
+    },
+    {
+      "creator": "d",
+      "color": 4,
+      "shape": "d",
+      "creation": "d",
+      "id": 7
+    },
+    {
+      "creator": "d",
+      "color": 3,
+      "shape": "d",
+      "creation": "d",
+      "id": 8
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "color": "Red"
+    },
+    {
+      "id": 2,
+      "color": "Green"
+    },
+    {
+      "id": 3,
+      "color": "Yellow"
+    },
+    {
+      "id": 4,
+      "color": "Blue"
+    },
+    {
+      "id": 5,
+      "color": "Orange"
+    },
+    {
+      "id": 6,
+      "color": "Black"
     }
   ]
 }
